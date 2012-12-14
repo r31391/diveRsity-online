@@ -11,3 +11,5 @@ library("shiny") # you will have to have downloaded and installed the shiny pack
 runApp("Path/to/extracted/files/") # substitute the correct path to downloaded files
 ```
 
+An example of the apps capabilities can be see at http://glimmer.rstudio.com/kkeenan/diveRsity-online/
+
