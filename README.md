@@ -13,3 +13,5 @@ runApp("Path/to/extracted/files/") # substitute the correct path to downloaded f
 
 An example of the apps capabilities can be see at http://glimmer.rstudio.com/kkeenan/diveRsity-online/
 
+Any question or suggestions can be sent to Kevin Keenan via email at kkeenan02 AT qub.ac.uk
+
